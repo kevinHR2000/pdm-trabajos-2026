@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pdm_ejemplo4_2026</string>
+    <string name="msg_nombre">Escribe su nombre</string>
+    <string name="msg_edad">Escribe su edad</string>
+    <string name="msg_ciudad">Escribe su ciudad</string>
+    <string name="msg_correo">Escribe su correo</string>
+    <string name="btn_continuar">Continuar</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_editar_texto">Editar Texto</string>
+</resources>
